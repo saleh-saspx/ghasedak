@@ -1,0 +1,19 @@
+{
+    "name": "saleh-saspx/ghasedak",
+    "description": "Easily use Iranian SMS services",
+    "type": "library",
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Saspx\\IranianSmsProviderPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Saleh Faezy",
+            "email": "2158430-saleh.faezy77@users.noreply.gitlab.com"
+        }
+    ]
+}
